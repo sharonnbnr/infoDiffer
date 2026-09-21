@@ -1,0 +1,1327 @@
+{
+  "meta": {
+    "fetched_at": "2026-09-20 23:30 KST",
+    "window": "72h",
+    "tg_total": 45,
+    "tg_ok": 42,
+    "tg_fail": [
+      "GemHiveDAOchannel",
+      "engtokor",
+      "hoho85744"
+    ],
+    "posts_preview": 753,
+    "posts_72h": 435,
+    "unique_72h": 250
+  },
+  "projects": [
+    {
+      "project": "KBW 2026",
+      "ticker": "KBW",
+      "kr": {
+        "mentions": 21,
+        "channels": 17,
+        "s": 0,
+        "promo": 14,
+        "pos": 7,
+        "neg": 0,
+        "neu": 7,
+        "tone": "promo",
+        "summary": "韩国区块链周 9/29–10/1 在首尔，侧边会（Seoul Index、BNB Seoul、FOMO/Pudgy）被至少 17 个频道同步转发，任务/门票属性强，不是币种观点。",
+        "excerpts": [
+          {
+            "name": "leedogin2",
+            "tier": "B",
+            "text": "2가지 에어드랍 이벤트 동시 참여하기 [Hashrate + NEXUS2140] KBW 를 앞두고, 한국 대상으로 에어드랍을 진행합니다. 3가지 이벤트를 동시 진행하니, 관심있는 분들은 신청해보면 좋을듯 싶네요. 특히, 현장 경험도 해보고 싶은 분들이 있다면 관심가져볼만할듯. 1. 해시레이트 에어드랍 - 2,000 MARS",
+            "url": "https://t.me/leedogin2/23994",
+            "intent": "promo"
+          },
+          {
+            "name": "코인소년의 크립토 이야기",
+            "tier": "A",
+            "text": "FLAP, BNB Seoul 메인 스폰서로 참여 10월 2일 KBW 기간 열리는 BNB Chain 플래그십 사이드 이벤트 ‘BNB Seoul’에 FLAP이 메인 스폰서로 참여한다고 함. * FLAP 근황 • BNB Chain과 트레이딩 캠페인 진행 • bStocks 연계로 주식 기반 자산과 밈 토큰 연결 • DeFi 수익",
+            "url": "https://t.me/coinboys/21967",
+            "intent": "promo"
+          },
+          {
+            "name": "코백남",
+            "tier": "A",
+            "text": "3년간 KBW 사이드 행사 개수 차이 👀 2024년 : 약 350개 2025년 : 약 400개 2026년 : 약 150개 행사 개수가 이전에 비해 반토막 이상 났네요",
+            "url": "https://t.me/cobacknamannounce/16247",
+            "intent": "news"
+          }
+        ]
+      },
+      "cn": null,
+      "jp": null,
+      "gap": "KR_live"
+    },
+    {
+      "project": "BTC",
+      "ticker": "BTC",
+      "kr": {
+        "mentions": 20,
+        "channels": 14,
+        "s": 0,
+        "promo": 1,
+        "pos": 17,
+        "neg": 0,
+        "neu": 17,
+        "tone": "mixed",
+        "summary": "价格在 80–81.5K 附近。新闻频道报点位，少数个人号在做复盘：有人说别再等 21 年那种百倍山寨季。",
+        "excerpts": [
+          {
+            "name": "매실남과 트럼프와 오디널즈는 반드시 승리할것",
+            "tier": "A",
+            "text": "포브스, 비트코인 100만 달러 전망—케빈 오리리 15조 달러 예측 상향 조정 포브스가 비트코인이 100만 달러에 이를 것이라고 보도했다. 케빈 오리리가 15조 달러의 예측을 상향 조정했다.",
+            "url": "https://t.me/waitstudy/39477",
+            "intent": "news"
+          },
+          {
+            "name": "코인소년의 크립토 이야기",
+            "tier": "A",
+            "text": "마이클 세일러, 비트 추매 시그널 ON Michael Saylor가 “A little more orange”라는 문구와 함께 Strategy의 비트코인 매수 차트를 다시 올림. • Strategy 보유량: 약 845,050 BTC • 평균 매입가: 약 $75,412 • 보유 BTC 가치: 약 $67.9B • Saylor는",
+            "url": "https://t.me/coinboys/21970",
+            "intent": "news"
+          },
+          {
+            "name": "STAY",
+            "tier": "B",
+            "text": "🕯 비트코인 차트 [ 1일 ] - 지난 8월 19일 62K에서 급상승 - 현시세 $81,390으로 한화 약 1억 1000만 원 - 현재 80K 매물 구간으로 추가 상승 체크 필요 #BTC",
+            "url": "https://t.me/stay_news/45380",
+            "intent": "news"
+          }
+        ]
+      },
+      "cn": null,
+      "jp": null,
+      "gap": "KR_live"
+    },
+    {
+      "project": "Robinhood Chain",
+      "ticker": "HOOD",
+      "kr": {
+        "mentions": 13,
+        "channels": 11,
+        "s": 0,
+        "promo": 2,
+        "pos": 10,
+        "neg": 0,
+        "neu": 10,
+        "tone": "hot",
+        "summary": "韩区这 72 小时第二热叙事。0G/W0G 上 Robinhood 链、生态分级名单、FOMO 相关在多个频道出现。",
+        "excerpts": [
+          {
+            "name": "아크의 프리미엄 코인정보방 🍀",
+            "tier": "B",
+            "text": "[로빈후드 CEO \"거래 앱 넘어 종합 자산관리 플랫폼으로 확장\"] CNBC에 따르면 블라드 테네브 로빈후드 CEO가 주식·암호화폐·예측시장 거래를 통해 고객을 확보한 뒤 은퇴계좌, 투자자문 등으로 서비스를 확대해 고객의 자산을 장기적으로 관리하는 것이 회사의 전략이라고 밝혔다. 그는 \"액티브 트레이딩은 로빈후드 사업의 ",
+            "url": "https://t.me/Board_the_Ark/21537",
+            "intent": "news"
+          },
+          {
+            "name": "폐지줍기 연구소",
+            "tier": "A",
+            "text": "🟢 0G, W0G로 로빈후드 체인까지 확장 #kol 0G가 최근 가장 뜨거운 로빈후드 체인에서 W0G 토큰을 지원합니다. ✅ $W0G, 로빈후드 체인 지원 -W0G는 $0G를 다른 앱 및 체인에서 활용할 수 있도록 만든 래핑 토큰 -이더리움 메인넷, 베이스, BNB, 솔라나 체인을 지원해왔으며 CCIP 및 Layerzer",
+            "url": "https://t.me/airdr0p_lab/20462",
+            "intent": "news"
+          },
+          {
+            "name": "Investmenttech (함가재공)",
+            "tier": "B",
+            "text": "요즘 저도 밈코인에 관심이 많아 하나씩 분석해 보다가, 얼마 전에 유동성도 충분하고 본딩 완료된 프로젝트 중 웹사이트 퀄리티와 세련된 톤앤매너가 눈에 띄는 로빈후드 밈을 하나 발견해 매수했습니다. 바로 $FUDA라는 종목입니다. 저는 밈코인 매매 시 웬만하면 본딩이 완료되고 차트 흐름이 안정화될 때 진입하는 편인데요. F",
+            "url": "https://t.me/investmenttech/10587",
+            "intent": "news"
+          }
+        ]
+      },
+      "cn": null,
+      "jp": null,
+      "gap": "KR_live"
+    },
+    {
+      "project": "ZEC",
+      "ticker": "ZEC",
+      "kr": {
+        "mentions": 11,
+        "channels": 8,
+        "s": 0,
+        "promo": 0,
+        "pos": 7,
+        "neg": 4,
+        "neu": 7,
+        "tone": "opinion",
+        "summary": "Garrett Jin 的 ZEC 空头被骂后，频道在传「现货多 + 对冲空」。8 个频道跟，带判断，不只是转发。",
+        "excerpts": [
+          {
+            "name": "매실남과 트럼프와 오디널즈는 반드시 승리할것",
+            "tier": "A",
+            "text": "아까 롤리랄님 방송 보면서 배웠는데 : 지캐시 같은거 올라가는데 거래량이 안터짐. 이걸 좋게 보시더라구요. 반대로 니어 같은건 이번에 거래량 크게 터져서 별로 안좋게 보신다고 하고. 이걸 그냥 해석해보면 1. 고점에서 거래량이 터지면 물량을 털었다는건데? 2. 지캐시 처럼 올라가는데도 거래량이 안터진다? 3. 그러면 아직",
+            "url": "https://t.me/waitstudy/39471",
+            "intent": "news"
+          },
+          {
+            "name": "CEN",
+            "tier": "A",
+            "text": "개럿진 ZEC 숏 PNL -$30M ZEC 공매도로 비난 또는 조롱(?) 좀 받았는데, 사실은 헷징이였다는 사실 - 9개월 전 바이낸스에서 ZEC 202,078개를 $437에 출금 - $88.3M 매수 → 평가이익 약 $224.5M 👉 원문 #ZEC",
+            "url": "https://t.me/emperorcoin/61267",
+            "intent": "opinion"
+          },
+          {
+            "name": "종명(hyeon) | X IT",
+            "tier": "B",
+            "text": "가렛 형님 ZEC 현물들고 일부 헷징이였네.... ZEC당 $1,580로, 그 보유량은 이제 $320M의 가치를 가지며, 당시 $88.3M에서 상승한 수치입니다. 따라서 Hyperliquid에서 한 38K ZEC($60M) 숏 포지션은 현재 $34.5M의 미실현 손실을 보이고 있지만, 그의 현물 보유에 대한 부분적인 헤지",
+            "url": "https://t.me/jh_6598/9766",
+            "intent": "opinion"
+          }
+        ]
+      },
+      "cn": null,
+      "jp": null,
+      "gap": "KR_live"
+    },
+    {
+      "project": "Hyperliquid",
+      "ticker": "HYPE",
+      "kr": {
+        "mentions": 7,
+        "channels": 6,
+        "s": 0,
+        "promo": 1,
+        "pos": 3,
+        "neg": 3,
+        "neu": 3,
+        "tone": "opinion",
+        "summary": "S3 积分/空投可能性、以及用 MegaETH 锁仓当反面教材。有观点，不是纯公告。",
+        "excerpts": [
+          {
+            "name": "leedogin2",
+            "tier": "B",
+            "text": "😀 하이퍼리퀴드 글들을 쭉 보면 S3 가능성은 꽤 높다 Jeff는 하이퍼리퀴드에 진심이고, 프로젝트 자체도 커뮤니티 보상 구조를 아예 열어둔 상태. HYPE 분배를 보면 38.888%가 future emissions + community rewards로 잡혀있다. 추가 보상이나 후속 에어드랍 기대가 나오는 게 자연스러움.",
+            "url": "https://t.me/leedogin2/23996",
+            "intent": "promo"
+          },
+          {
+            "name": "종명(hyeon) | X IT",
+            "tier": "B",
+            "text": "1년 후 - 나는 여전히 게이가 아니지만, 여전히 Aster girls보다 Hyperliquid Jeff를 선택했어",
+            "url": "https://t.me/jh_6598/9777",
+            "intent": "news"
+          },
+          {
+            "name": "취미생활방📮",
+            "tier": "B",
+            "text": "👎 MegaETH로 보는 락업의 무서움 1. MegaETH는 TGE 직전 FDV 999M 벨류에이션으로 토큰 공급량의 5%를 퍼블릭 세일에 할당 2. 당시 MegaETH의 토큰 가격은 Hyperliquid 프리마켓 가격 기준으로 FDV 2B 위에서 유지 3. 많은 사람들이 메가이더를 모나드의 경쟁자라 부를 정도로 높은 기",
+            "url": "https://t.me/enjoymyhobby/97686",
+            "intent": "opinion"
+          }
+        ]
+      },
+      "cn": null,
+      "jp": null,
+      "gap": "KR_live"
+    },
+    {
+      "project": "MegaETH",
+      "ticker": "MEGAETH",
+      "kr": {
+        "mentions": 2,
+        "channels": 2,
+        "s": 0,
+        "promo": 0,
+        "pos": 0,
+        "neg": 2,
+        "neu": 0,
+        "tone": "neg",
+        "summary": "用 TGE 前后估值和锁仓讲「解锁有多狠」，明确偏空的结构讨论。",
+        "excerpts": [
+          {
+            "name": "취미생활방📮",
+            "tier": "B",
+            "text": "👎 MegaETH로 보는 락업의 무서움 1. MegaETH는 TGE 직전 FDV 999M 벨류에이션으로 토큰 공급량의 5%를 퍼블릭 세일에 할당 2. 당시 MegaETH의 토큰 가격은 Hyperliquid 프리마켓 가격 기준으로 FDV 2B 위에서 유지 3. 많은 사람들이 메가이더를 모나드의 경쟁자라 부를 정도로 높은 기",
+            "url": "https://t.me/enjoymyhobby/97686",
+            "intent": "opinion"
+          },
+          {
+            "name": "잼민123",
+            "tier": "A",
+            "text": "불장 느낌나는 지금 최근 투자 복기 클래리티 액트와 FOMC로 변동성이 컸던 이번주 결국 비트가 80k 찍으면서 일부 알트들은 떡상하고 있네요 불장 초입 느낌나는 현재 개인적으로 복기 및 반성을 위해 기록을 남깁니다 1️⃣ 메타를 빠르게 읽고 편승해야함 - 새 체인엔 늘 기회가 있다 : 로빈후드 체인발 온체인 불장(PON",
+            "url": "https://t.me/mujammin123/29810",
+            "intent": "opinion"
+          }
+        ]
+      },
+      "cn": null,
+      "jp": null,
+      "gap": "KR_live"
+    },
+    {
+      "project": "JPYC",
+      "ticker": "JPYC",
+      "kr": {
+        "mentions": 3,
+        "channels": 3,
+        "s": 0,
+        "promo": 0,
+        "pos": 3,
+        "neg": 0,
+        "neu": 3,
+        "tone": "news",
+        "summary": "Upbit 上 JPYC 折价 + LINE 小程序买韩零售券，被当成实用套利而不是上币叙事。",
+        "excerpts": [
+          {
+            "name": "Airdrop ATM",
+            "tier": "A",
+            "text": "$JPYC 로 상품권 15% 할인 구매 올리브영, 다이소, CU, 이마트24 LINE에서 Mini App 이용 JPYC로 구매하면 5%할인 + 10% 캐시백 업비트에서 JPYC 2.1% 역프 적용시 15 + 2.1 = 총 17.1% 효과 유용하게 사용할 수 있음",
+            "url": "https://t.me/Bounty_ATM/16385",
+            "intent": "news"
+          },
+          {
+            "name": "잼민123",
+            "tier": "A",
+            "text": "$JPYC 로 상품권 15% 할인 구매 올리브영, 다이소, CU, 이마트24 LINE에서 Mini App 이용 JPYC로 구매하면 5%할인 + 10% 캐시백 업비트에서 JPYC 2% 역프라 유용하게 사용할 수 있음",
+            "url": "https://t.me/mujammin123/29820",
+            "intent": "news"
+          },
+          {
+            "name": "취미생활방📮",
+            "tier": "B",
+            "text": "JPYC로 상품권 15% 할인 구매 올리브영, 다이소, CU, 이마트24 LINE에서 Mini App 이용 JPYC로 구매하면 5%할인 + 10% 캐시백 업비트이서 JPYC 역프 상태인데 유용하게 사용할 수 있음",
+            "url": "https://t.me/enjoymyhobby/97679",
+            "intent": "news"
+          }
+        ]
+      },
+      "cn": null,
+      "jp": null,
+      "gap": "KR_live"
+    },
+    {
+      "project": "0G / W0G",
+      "ticker": "0G",
+      "kr": {
+        "mentions": 4,
+        "channels": 4,
+        "s": 0,
+        "promo": 0,
+        "pos": 4,
+        "neg": 0,
+        "neu": 4,
+        "tone": "news",
+        "summary": "0G 推出包装代币 W0G，接到 Robinhood 链。空投/研究频道在跟。",
+        "excerpts": [
+          {
+            "name": "폐지줍기 연구소",
+            "tier": "A",
+            "text": "🟢 0G, W0G로 로빈후드 체인까지 확장 #kol 0G가 최근 가장 뜨거운 로빈후드 체인에서 W0G 토큰을 지원합니다. ✅ $W0G, 로빈후드 체인 지원 -W0G는 $0G를 다른 앱 및 체인에서 활용할 수 있도록 만든 래핑 토큰 -이더리움 메인넷, 베이스, BNB, 솔라나 체인을 지원해왔으며 CCIP 및 Layerzer",
+            "url": "https://t.me/airdr0p_lab/20462",
+            "intent": "news"
+          },
+          {
+            "name": "코백남",
+            "tier": "A",
+            "text": "0G, 로빈후드 체인으로 확장 ✔️ 0G > w0G를 사용할 것으로 예상 결국 로빈후드 유동성을 노리는 전략 일단 지금까진 0G 분위기 좋다 KBW 때 쏴줘. 아니 쏴.",
+            "url": "https://t.me/cobacknamannounce/16245",
+            "intent": "news"
+          },
+          {
+            "name": "코인소년의 크립토 이야기",
+            "tier": "A",
+            "text": "0G, 로빈후드 체인으로 확장 소식 0G가 w0G를 로빈후드 체인에 배포하며 지원 네트워크를 확대한다고 함. • 기존 이더리움·베이스·솔라나·BNB에 이어 로빈후드 체인 추가 • w0G 형태로 로빈후드 체인 내 유동성과 연결 • LayerZero 브릿지를 통한 체인 간 이동 지원 0G 메인넷과 로빈후드 생태계 간 유동성을",
+            "url": "https://t.me/coinboys/21958",
+            "intent": "news"
+          }
+        ]
+      },
+      "cn": null,
+      "jp": null,
+      "gap": "KR_live"
+    },
+    {
+      "project": "DCent Wallet",
+      "ticker": "DCENT",
+      "kr": {
+        "mentions": 6,
+        "channels": 5,
+        "s": 0,
+        "promo": 0,
+        "pos": 5,
+        "neg": 0,
+        "neu": 5,
+        "tone": "news",
+        "summary": "同一条「App 热钱包要迁移到新钱包」安全提示被 5 个频道转发。",
+        "excerpts": [
+          {
+            "name": "청춘의일상 크립토스쿨",
+            "tier": "B",
+            "text": "디센트 앱 지갑(핫 월렛)에 자산이 있다면, 새 지갑으로 옮겨야 합니다 1. 앱을 먼저 최신 버전(v10) 이상으로 업데이트한 뒤 옮기기 (업데이트 전엔 앱 지갑에서 전송하지 않기) 2. 복구가 아니라 전송 (앱 지갑 복구 단어를 하드웨어 지갑에 넣어 복구하면 그대로 위험. 새 복구 단어로 만든 지갑이나 거래소로 보내기)",
+            "url": "https://t.me/CRYPTOSCH00L/24927",
+            "intent": "news"
+          },
+          {
+            "name": "취미생활방📮",
+            "tier": "B",
+            "text": "👛 디센트 앱 지갑 이용자 자산 이동 안내 및 확산 협조 요청 ✅ 디센트월렛에서 최근 일어난 사고에 대해 후속조치 공지가 나왔습니다. 📂 취해야 할 행동 🟢 디센트 앱을 공식 앱스토어에서 최신 버전으로 업데이트 🟢 업데이트 전에는 앱 지갑에서 거래하지 않을 것 🟢 새 복구 단어로 만든 지갑으로 자산을 옮길 것 (기존 복구",
+            "url": "https://t.me/enjoymyhobby/97689",
+            "intent": "news"
+          },
+          {
+            "name": "폐지줍는 츄카피",
+            "tier": "B",
+            "text": "🍀 디센트 월렛 근황 및 최신 소식들 📝 아직 많은 앱 지갑 사용자들이 자산을 이동하지 않고 있어 추가 피해를 막기 위해서는 꼭 안전한 곳으로 이동이 필요하다고해요 🔘 앱을 최신버전으로 업데이트 후 옮기기 🔘 앱 지갑 복구 단어를 하드웨어 지갑으로 넣으면 위험하기 때문에 그냥 거래소로 보내는게 안전해요 🔘 디센트 관계자는",
+            "url": "https://t.me/chukapikachu/11658",
+            "intent": "news"
+          }
+        ]
+      },
+      "cn": null,
+      "jp": null,
+      "gap": "KR_live"
+    },
+    {
+      "project": "DRV",
+      "ticker": "DRV",
+      "kr": {
+        "mentions": 1,
+        "channels": 1,
+        "s": 0,
+        "promo": 0,
+        "pos": 0,
+        "neg": 1,
+        "neu": 0,
+        "tone": "neg",
+        "summary": "디라이브在 Upbit 短暂拉了约 500% 后回落，频道当国内盘异常事件报。",
+        "excerpts": [
+          {
+            "name": "취미생활방📮",
+            "tier": "B",
+            "text": "디라이브가 순간 500퍼센트 상승 후 하락했습니다. 무슨 일이 나버렸군요.... #업비트 #국내 #DRV",
+            "url": "https://t.me/enjoymyhobby/97672",
+            "intent": "opinion"
+          }
+        ]
+      },
+      "cn": null,
+      "jp": null,
+      "gap": "KR_live"
+    }
+  ],
+  "feed": [
+    {
+      "name": "아크의 프리미엄 코인정보방 🍀",
+      "handle": "Board_the_Ark",
+      "tier": "B",
+      "dt": "09-20T23:11",
+      "url": "https://t.me/Board_the_Ark/21540",
+      "views": "67",
+      "text": "유튜버 효잉님 여수 섬 박람회 극딜 여수 관련해서 대충 X 피드로만 봤는데 이렇게 모아서 보니까 난리도 아니네요. 1800억 ㄷㄷ 👉 원문 #한국",
+      "tags": [],
+      "intent": "news"
+    },
+    {
+      "name": "코인소년의 크립토 이야기",
+      "handle": "coinboys",
+      "tier": "A",
+      "dt": "09-20T23:00",
+      "url": "https://t.me/coinboys/21972",
+      "views": "373",
+      "text": "🆘 스캠주의보 발동 이번에 ARC 에드 등록하라는 스캐머 등장했네요. 각종 채팅방에 저런 비슷한 글이 올라올 수 있으니 100% 스캠으로 단정하고 신고 or 차단박으시면 됨. (당연히 저 Arc Korea는 공식 채널아님 / 공식 채널인척하면서 링크 유도하는 구석기 시대 스캠 방식)",
+      "tags": [],
+      "intent": "news"
+    },
+    {
+      "name": "코인소년의 크립토 이야기",
+      "handle": "coinboys",
+      "tier": "A",
+      "dt": "09-20T22:48",
+      "url": "https://t.me/coinboys/21971",
+      "views": "404",
+      "text": "블랙보드 알파 얼리 액세스 코드 선착순 나눔 * Blackboard = 크립토 선물뿐 아니라 주식·금·원유 같은 전통 자산, 예측시장, TCG 카드까지 한 화면에서 볼 수 있는 온체인 거래 터미널 현재 알파 얼리 액세스 코드를 배포 중이라 빠르게 공유 📸 알파 얼리 액세스 코드 등록방법 • 아래 초대 링크 중 하나 접속 • 구글 또는 애플 계정으로 로그인 • 웨잇리스트에서 코드 등록 • 이미 사용된 코드라면 다른 코드로 재시도 * 등록은 10초컷 가능…",
+      "tags": [],
+      "intent": "promo"
+    },
+    {
+      "name": "매실남과 트럼프와 오디널즈는 반드시 승리할것",
+      "handle": "waitstudy",
+      "tier": "A",
+      "dt": "09-20T22:39",
+      "url": "https://t.me/waitstudy/39477",
+      "views": "590",
+      "text": "포브스, 비트코인 100만 달러 전망—케빈 오리리 15조 달러 예측 상향 조정 포브스가 비트코인이 100만 달러에 이를 것이라고 보도했다. 케빈 오리리가 15조 달러의 예측을 상향 조정했다.",
+      "tags": [
+        "BTC"
+      ],
+      "intent": "news"
+    },
+    {
+      "name": "CEN",
+      "handle": "emperorcoin",
+      "tier": "A",
+      "dt": "09-20T22:38",
+      "url": "https://t.me/emperorcoin/61275",
+      "views": "717",
+      "text": "밈코인은 크게 세가지 유형으로 나뉜다고 하네요. 컬쳐, 유명인, 유틸리티 또는 기술 #밈코인",
+      "tags": [],
+      "intent": "news"
+    },
+    {
+      "name": "코인소년의 크립토 이야기",
+      "handle": "coinboys",
+      "tier": "A",
+      "dt": "09-20T22:30",
+      "url": "https://t.me/coinboys/21970",
+      "views": "441",
+      "text": "마이클 세일러, 비트 추매 시그널 ON Michael Saylor가 “A little more orange”라는 문구와 함께 Strategy의 비트코인 매수 차트를 다시 올림. • Strategy 보유량: 약 845,050 BTC • 평균 매입가: 약 $75,412 • 보유 BTC 가치: 약 $67.9B • Saylor는 과거에도 비슷한 차트를 올린 뒤 추가 매수를 공시한 사례가 있어 시장에서는 이번 게시물도 매수 신호일 가능성에 주목 참고 트윗",
+      "tags": [
+        "BTC"
+      ],
+      "intent": "news"
+    },
+    {
+      "name": "아크의 프리미엄 코인정보방 🍀",
+      "handle": "Board_the_Ark",
+      "tier": "B",
+      "dt": "09-20T21:56",
+      "url": "https://t.me/Board_the_Ark/21537",
+      "views": "228",
+      "text": "[로빈후드 CEO \"거래 앱 넘어 종합 자산관리 플랫폼으로 확장\"] CNBC에 따르면 블라드 테네브 로빈후드 CEO가 주식·암호화폐·예측시장 거래를 통해 고객을 확보한 뒤 은퇴계좌, 투자자문 등으로 서비스를 확대해 고객의 자산을 장기적으로 관리하는 것이 회사의 전략이라고 밝혔다. 그는 \"액티브 트레이딩은 로빈후드 사업의 엔진이자 기반\"이라며 \"고객이 거래를 위해 유입된 뒤 은퇴계좌 등 장기적으로 더 중요한 금융상품을 이용하도록 하는 것이 목표\"라고 설명했다.…",
+      "tags": [
+        "Robinhood Chain"
+      ],
+      "intent": "news"
+    },
+    {
+      "name": "코백남",
+      "handle": "cobacknamannounce",
+      "tier": "A",
+      "dt": "09-20T21:35",
+      "url": "https://t.me/cobacknamannounce/16254",
+      "views": "710",
+      "text": "7시간 동안 나온 전쟁 관련 속보 ✔️ 1. 우크라이나 🇺🇦 - 러시아 🇷🇺 우크라이나의 모스크바 정유소 드론 공격 2. 대한민국 🇰🇷 - 북한 🇰🇵 북한, 동해를 향해 탄도미사일 발사 3. 프랑스 🇫🇷 - 러시아 🇷🇺 프랑스, 러시아의 공격이 프랑스 전력망, 철도 타격 가능성 경고",
+      "tags": [],
+      "intent": "news"
+    },
+    {
+      "name": "KOOB Crypto 3.0 (쿱크립토)",
+      "handle": "kookookoob",
+      "tier": "A",
+      "dt": "09-20T21:23",
+      "url": "https://t.me/kookookoob/27163",
+      "views": "657",
+      "text": "[First Squawk] 미 국무부, 중동 전역에 포괄적 안보 경보 발령 미 국무부 영사국은 중동 지역 미국 시민들에게 복잡한 안보 상황과 예측 불가능한 긴장 고조 가능성을 이유로 경계 태세를 강화할 것을 촉구했다. 📰 원문/번역 📊 시장 현황 📲 앱 다운로드",
+      "tags": [],
+      "intent": "news"
+    },
+    {
+      "name": "코백남",
+      "handle": "cobacknamannounce",
+      "tier": "A",
+      "dt": "09-20T21:14",
+      "url": "https://t.me/cobacknamannounce/16252",
+      "views": "688",
+      "text": "진작 팔았으니 이렇게 쏜거였겠지..? 0.0002 쯤에 다 판거같은데 ㅋ",
+      "tags": [],
+      "intent": "news"
+    },
+    {
+      "name": "leedogin2",
+      "handle": "leedogin2",
+      "tier": "B",
+      "dt": "09-20T21:10",
+      "url": "https://t.me/leedogin2/23997",
+      "views": "605",
+      "text": "3달만에 500배 상승. 말이 되나... $AKE 정작 에드작, NFT 보유자들은 안(못)먹여줬는데 이후 탑승한 승객들은 죄다 태워주면서 인생 역전 무빙 보여주는 중",
+      "tags": [],
+      "intent": "news"
+    },
+    {
+      "name": "CEN",
+      "handle": "emperorcoin",
+      "tier": "A",
+      "dt": "09-20T20:58",
+      "url": "https://t.me/emperorcoin/61274",
+      "views": "1.37K",
+      "text": "과거 영광의 밈코인들은 부활이 가능한가? 도지처럼 대형 스피커가 없으면 불가능 할거같은데.. #밈코인",
+      "tags": [],
+      "intent": "news"
+    },
+    {
+      "name": "leedogin2",
+      "handle": "leedogin2",
+      "tier": "B",
+      "dt": "09-20T20:43",
+      "url": "https://t.me/leedogin2/23996",
+      "views": "515",
+      "text": "😀 하이퍼리퀴드 글들을 쭉 보면 S3 가능성은 꽤 높다 Jeff는 하이퍼리퀴드에 진심이고, 프로젝트 자체도 커뮤니티 보상 구조를 아예 열어둔 상태. HYPE 분배를 보면 38.888%가 future emissions + community rewards로 잡혀있다. 추가 보상이나 후속 에어드랍 기대가 나오는 게 자연스러움. 🚀 하이퍼리퀴드가 한 번 더 에어드랍을 하면 규모도 크고, 프로젝트 성장에도 도움이 되는 방향으로 갈 가능성이 높아보임 .",
+      "tags": [
+        "Hyperliquid"
+      ],
+      "intent": "promo"
+    },
+    {
+      "name": "Airdrop ATM",
+      "handle": "Bounty_ATM",
+      "tier": "A",
+      "dt": "09-20T20:42",
+      "url": "https://t.me/Bounty_ATM/16397",
+      "views": "320",
+      "text": "🔸 최근 BNB 진영쪽에서 Pre-IPO를 언급하는 와중 생성된 토큰이 $pPoly SPV(Special Purpose Vehicle) 는 특수목적법인 = 공동투자 파이몬 파이낸스는 BNB에서 하고 있는 Pre-IPO 플랫폼. 이번에 폴리마켓을 내고 이걸 밀려는 것처럼 보임. = 폴리마켓 에드는 없다.",
+      "tags": [],
+      "intent": "news"
+    },
+    {
+      "name": "㈜ 청년열정마라과즙벌꿀집민트초코손맛푸드",
+      "handle": "minchoisfuture",
+      "tier": "B",
+      "dt": "09-20T20:22",
+      "url": "https://t.me/minchoisfuture/53803",
+      "views": "797",
+      "text": "아니 이사람들 왜 이걸 모나드에서 안하고 국립중앙박물관에서 하고 있는거지 😊 😊 상금 300만원이라고 함 하나하나 엄청나네....",
+      "tags": [],
+      "intent": "news"
+    },
+    {
+      "name": "청춘의일상 크립토스쿨",
+      "handle": "CRYPTOSCH00L",
+      "tier": "B",
+      "dt": "09-20T20:17",
+      "url": "https://t.me/CRYPTOSCH00L/24927",
+      "views": "87",
+      "text": "디센트 앱 지갑(핫 월렛)에 자산이 있다면, 새 지갑으로 옮겨야 합니다 1. 앱을 먼저 최신 버전(v10) 이상으로 업데이트한 뒤 옮기기 (업데이트 전엔 앱 지갑에서 전송하지 않기) 2. 복구가 아니라 전송 (앱 지갑 복구 단어를 하드웨어 지갑에 넣어 복구하면 그대로 위험. 새 복구 단어로 만든 지갑이나 거래소로 보내기) 3. 디센트는 복구 단어를 절대 묻지 않음 (DM·댓글로 오는 \"복구 도와드립니다\"는 전부 사칭) 조치 대상 확인: 자산 이전 가이드: 하드월렛에 직접적인 영향은 없으나, 앱 지",
+      "tags": [
+        "DCent Wallet"
+      ],
+      "intent": "news"
+    },
+    {
+      "name": "폐지줍기 연구소",
+      "handle": "airdr0p_lab",
+      "tier": "A",
+      "dt": "09-20T20:14",
+      "url": "https://t.me/airdr0p_lab/20462",
+      "views": "871",
+      "text": "🟢 0G, W0G로 로빈후드 체인까지 확장 #kol 0G가 최근 가장 뜨거운 로빈후드 체인에서 W0G 토큰을 지원합니다. ✅ $W0G, 로빈후드 체인 지원 -W0G는 $0G를 다른 앱 및 체인에서 활용할 수 있도록 만든 래핑 토큰 -이더리움 메인넷, 베이스, BNB, 솔라나 체인을 지원해왔으며 CCIP 및 Layerzero 기반으로 작동 -최근 가장 뜨거운 체인인 로빈후드 체인에도 W0G 지원 시작 (CCIP 기반) -공식 컨트랙트:0x32003cc8357938bcf615c1222a349c58f2",
+      "tags": [
+        "0G / W0G",
+        "Robinhood Chain"
+      ],
+      "intent": "news"
+    },
+    {
+      "name": "종명(hyeon) | X IT",
+      "handle": "jh_6598",
+      "tier": "B",
+      "dt": "09-20T20:10",
+      "url": "https://t.me/jh_6598/9777",
+      "views": "396",
+      "text": "1년 후 - 나는 여전히 게이가 아니지만, 여전히 Aster girls보다 Hyperliquid Jeff를 선택했어",
+      "tags": [
+        "Hyperliquid"
+      ],
+      "intent": "news"
+    },
+    {
+      "name": "취미생활방📮",
+      "handle": "enjoymyhobby",
+      "tier": "B",
+      "dt": "09-20T19:49",
+      "url": "https://t.me/enjoymyhobby/97689",
+      "views": "3.21K",
+      "text": "👛 디센트 앱 지갑 이용자 자산 이동 안내 및 확산 협조 요청 ✅ 디센트월렛에서 최근 일어난 사고에 대해 후속조치 공지가 나왔습니다. 📂 취해야 할 행동 🟢 디센트 앱을 공식 앱스토어에서 최신 버전으로 업데이트 🟢 업데이트 전에는 앱 지갑에서 거래하지 않을 것 🟢 새 복구 단어로 만든 지갑으로 자산을 옮길 것 (기존 복구 단어 사용하지 말 것) 🟢 하드웨어 지갑 사용자도 복구 단어를 지갑에 입력 혹은 복구한 적 있다면 새 복구단어 지갑으로 자산을 옮길 것 💬 현재 한국 수사기관, 외부 보안 전문기",
+      "tags": [
+        "DCent Wallet"
+      ],
+      "intent": "news"
+    },
+    {
+      "name": "취미생활방📮",
+      "handle": "enjoymyhobby",
+      "tier": "B",
+      "dt": "09-20T19:40",
+      "url": "https://t.me/enjoymyhobby/97688",
+      "views": "1.37K",
+      "text": "바이빗에서 크라임이 발생하고 있는데 변동폭이 어마무시하는군요.. #AKE",
+      "tags": [],
+      "intent": "news"
+    },
+    {
+      "name": "㈜ 청년열정마라과즙벌꿀집민트초코손맛푸드",
+      "handle": "minchoisfuture",
+      "tier": "B",
+      "dt": "09-20T19:37",
+      "url": "https://t.me/minchoisfuture/53802",
+      "views": "864",
+      "text": "아서헤이즈 방금도 또 $ENA를 담았군요 요새 또 아서헤이즈의 $ENA 구매가 트위터 상에 마인드쉐어되던데, 어쩌피 아서 헤이즈가 따로 트위터에 글을 적은 것도 없으니, 너무 일희일비 할 필요는 없을듯 해요. 이번 구매에 대한 코멘트로 \"어쩌피 또 산다음 덤핑한다\"느니 어쩌고 하는 글들이 보이는데, (적어도 이 ETHENA에 한해서) 아서 입장에서는 절대 그럴 이유가 없습니다. 이런 정보를 단발성으로 받아들이느냐, 선형으로 받아들이느냐의 차이일거같은데...…",
+      "tags": [],
+      "intent": "news"
+    },
+    {
+      "name": "취미생활방📮",
+      "handle": "enjoymyhobby",
+      "tier": "B",
+      "dt": "09-20T19:19",
+      "url": "https://t.me/enjoymyhobby/97686",
+      "views": "1.3K",
+      "text": "👎 MegaETH로 보는 락업의 무서움 1. MegaETH는 TGE 직전 FDV 999M 벨류에이션으로 토큰 공급량의 5%를 퍼블릭 세일에 할당 2. 당시 MegaETH의 토큰 가격은 Hyperliquid 프리마켓 가격 기준으로 FDV 2B 위에서 유지 3. 많은 사람들이 메가이더를 모나드의 경쟁자라 부를 정도로 높은 기대감을 가지고 있었으며 당시 메가이더 팀도 일을 굉장히 잘했기 때문에 꽤나 많은 사람들이 퍼블릭 세일에 참여 4. 퍼블릭 세일은 TGE 100% 언락과 1년 락업 조건으로 나뉘었는",
+      "tags": [
+        "MegaETH",
+        "Hyperliquid"
+      ],
+      "intent": "opinion"
+    },
+    {
+      "name": "1Min",
+      "handle": "nftimagod",
+      "tier": "A",
+      "dt": "09-20T19:11",
+      "url": "https://t.me/nftimagod/12214",
+      "views": "901",
+      "text": "🧑‍🌾 Yield Fields 화이트리스트 이벤트 앱스에서 날아다니던 온체인 히어로 파운더의 다음 게임 프로젝트 Yield Fields 곧 민트 예정 힘들게 받아왔습니다! 이 프젝 WL를 받기위해서는 1ETH 상당의 NFT가 있어야해서 가치가 꽤 되는 WL 같네요 - 당첨 인원수 : 총 4명 - 신청 마감일 : 2026년 9월 20일 0. 원미닛 크립토 채널 입장 1. Yield Fields 공식 X 팔로우 2. 해당 게시글에 좋아요 + 리포스트…",
+      "tags": [],
+      "intent": "promo"
+    },
+    {
+      "name": "하양이아빠의 암호화폐이야기",
+      "handle": "xvgwhitedog2",
+      "tier": "B",
+      "dt": "09-20T19:10",
+      "url": "https://t.me/xvgwhitedog2/89868",
+      "views": "291",
+      "text": "26.9.19-20. 코인뉴스 - 시애틀·LA 한인사회 코인 투자사기 의혹 VMS 대표 한국서 체포, $ACX주의 회사 바꾸고 토큰 종료, Blink Wallet 보안사고 자산탈취",
+      "tags": [],
+      "intent": "news"
+    },
+    {
+      "name": "1Min",
+      "handle": "nftimagod",
+      "tier": "A",
+      "dt": "09-20T18:59",
+      "url": "https://t.me/nftimagod/12213",
+      "views": "989",
+      "text": "오래전부터 모니터 너머로 하나비님이 써주시는 글을 읽으며 많은 도움을 받았는데, 이번 졸업 트윗도 참 공감이 많이 되네요. 요즘은 돈을 버는 것도 좋지만, 어느 정도 먹고살 만하다면 현생을 잘 챙기는 게 얼마나 소중한지 더 깊이 생각하게 됩니다. 마침 어제가 제 생일이었는데, 한 번도 직접 만나본 적 없는 분들, 심지어 지구 반대편에 사는 분들에게도 많은 축하를 받았네요. 이 시장에 들어오지 않았다면 닿지 않았을 인연들이겠죠. 돌이켜보면 이 시장에서 얻은 건 돈만은 아니었던 것 같습니다. 이렇게 ",
+      "tags": [],
+      "intent": "news"
+    },
+    {
+      "name": "매실남과 트럼프와 오디널즈는 반드시 승리할것",
+      "handle": "waitstudy",
+      "tier": "A",
+      "dt": "09-20T18:48",
+      "url": "https://t.me/waitstudy/39474",
+      "views": "1.13K",
+      "text": "김치프리미엄: -1.44% USD : 1,390원 USDT: 1,370원",
+      "tags": [],
+      "intent": "news"
+    },
+    {
+      "name": "㈜ 청년열정마라과즙벌꿀집민트초코손맛푸드",
+      "handle": "minchoisfuture",
+      "tier": "B",
+      "dt": "09-20T18:38",
+      "url": "https://t.me/minchoisfuture/53801",
+      "views": "934",
+      "text": "방금 제보받은 플라즈마카드 한국사용내역 홍콩에서 본 인증샷처럼 환스프레드 제로는 아닌데, 1381.57원을 적용해주는거면 다른 크립토 카드들 대비 굉장히 양호하네요. 현재 테더가격은 1366원으로, 이렇게 역프낀 상황에서는 캐시백 4% 제외해도 굉장히 좋은 조건. 지금 1달러 사용당 정확히 15.57원 이득 (앗 이 숫자가 왜 또 튀어나와)",
+      "tags": [],
+      "intent": "news"
+    },
+    {
+      "name": "KOOB Crypto 3.0 (쿱크립토)",
+      "handle": "kookookoob",
+      "tier": "A",
+      "dt": "09-20T18:26",
+      "url": "https://t.me/kookookoob/27162",
+      "views": "716",
+      "text": "[한국경제] [단독] 美 경제거물이 찍은 한국 기업 보니…'파격 전망' • 스탠리 드러켄밀러 듀케인패밀리오피스 회장이 첫 공개 방한해 22일 ㈜두산 및 두산에너빌리티 경영진과 회동하며, 삼성전자 · SK하이닉스 방문 및 네이버 ·쿠팡 회동 가능성도 거론됩니다. • AI 인프라 확대로 메모리, 반도체 소재, 발전설비 등 한국 공급망 병목 구간의 중요성이 부각된 가운데, 투자 방식 등을 논의하는 자리가 될 것으로 전망됩니다. • 듀케인패밀리오피스는 올 1분기 아르헨티나 YPF 지분 1억2700만달러 ",
+      "tags": [],
+      "intent": "news"
+    },
+    {
+      "name": "Airdrop ATM",
+      "handle": "Bounty_ATM",
+      "tier": "A",
+      "dt": "09-20T18:05",
+      "url": "https://t.me/Bounty_ATM/16396",
+      "views": "543",
+      "text": "매질은 언제나 옳다 티보도 쪼이니까 리셋권 준다고 하네요 22일 codex 초기화되니 하루에 33%씩 써버렷..!!",
+      "tags": [],
+      "intent": "news"
+    },
+    {
+      "name": "leedogin2",
+      "handle": "leedogin2",
+      "tier": "B",
+      "dt": "09-20T17:48",
+      "url": "https://t.me/leedogin2/23994",
+      "views": "687",
+      "text": "2가지 에어드랍 이벤트 동시 참여하기 [Hashrate + NEXUS2140] KBW 를 앞두고, 한국 대상으로 에어드랍을 진행합니다. 3가지 이벤트를 동시 진행하니, 관심있는 분들은 신청해보면 좋을듯 싶네요. 특히, 현장 경험도 해보고 싶은 분들이 있다면 관심가져볼만할듯. 1. 해시레이트 에어드랍 - 2,000 MARS HASHRATE 에어드랍 - 텔레그램방 참여( 링크 ) » 에어드랍 신청 2. NEXUS 2140 이벤트 및 현장 참여 인원 모집 - 커뮤니티 멤버 무료 입장( 전시회 참가 신청",
+      "tags": [
+        "KBW 2026"
+      ],
+      "intent": "promo"
+    },
+    {
+      "name": "하양이아빠의 암호화폐이야기",
+      "handle": "xvgwhitedog2",
+      "tier": "B",
+      "dt": "09-20T17:21",
+      "url": "https://t.me/xvgwhitedog2/89867",
+      "views": "404",
+      "text": "시애틀·LA 한인사회 코인 투자사기 의혹…VMS 대표 한국서 체포 알려져",
+      "tags": [],
+      "intent": "news"
+    },
+    {
+      "name": "하양이아빠의 암호화폐이야기",
+      "handle": "xvgwhitedog2",
+      "tier": "B",
+      "dt": "09-20T17:18",
+      "url": "https://t.me/xvgwhitedog2/89865",
+      "views": "309",
+      "text": "빗썸(Bithumb) 공지 페치(FET) 유의촉구 안내 2026-09-20 15:10:36",
+      "tags": [],
+      "intent": "opinion"
+    },
+    {
+      "name": "CEN",
+      "handle": "emperorcoin",
+      "tier": "A",
+      "dt": "09-20T16:50",
+      "url": "https://t.me/emperorcoin/61272",
+      "views": "2.62K",
+      "text": "와 이거 뭐냐 너무 무섭다.. 제보 차량이 출발하자 뒤에 있던 차가 따라오기 시작 계속 따라오길래 먼저 가라고 차를 세웠더니 뒷차도 같이 멈췄고, 뭔가 이상해서 문부터 잠그고 지켜보는데 차에서 외국인 남성 2명이 내리더니 제보 차량 쪽으로 달려옴 이렇게 또 사회는 불신을 낳고 쌓이며 새로운 법이 또 추가 되어 서로가 서로를 감시하게 되는 이야기로 흘러갈거같네요. 👉 원문 #한국",
+      "tags": [],
+      "intent": "opinion"
+    },
+    {
+      "name": "㈜ 청년열정마라과즙벌꿀집민트초코손맛푸드",
+      "handle": "minchoisfuture",
+      "tier": "B",
+      "dt": "09-20T16:05",
+      "url": "https://t.me/minchoisfuture/53799",
+      "views": "563",
+      "text": "어제부터 유럽 전쟁 떡밥이 존나 돌아서 저도 궁금해서 관련된 전문가 인터뷰랑 자료들을 몇시간 봤는데 인상깊게 본 내용 몇가지 공유해드림. 1) 독일을 위시한 유럽 국가들은 러시아가 2030년에 나토 국가를 침공할 거라는 가정 하에 전쟁 준비중. 2) 근시일내에 러시아의 도발이 있다면 드론이나 미사일로 나토 국가 인프라 타격할 것으로 예상 중. 얼마 전에 독일의 한 공항에서 러시아의 것으로 추정되는 자폭 드론이 발견되기도 했음. 3) 우크라이나 지금 상태 매우 안 좋음. 러시아 엘리트는 자신들이 무",
+      "tags": [],
+      "intent": "news"
+    },
+    {
+      "name": "취미생활방📮",
+      "handle": "enjoymyhobby",
+      "tier": "B",
+      "dt": "09-20T16:01",
+      "url": "https://t.me/enjoymyhobby/97685",
+      "views": "1.81K",
+      "text": "🤔 Pancake Swap, 신규 서비스 암시?! ✍ 무언가 포탈이 열릴듯한 모습을 암시하고 있는데요. RWA와 온체인 금융시장이 대세인 가운데 아마 Pre_IPO시장 이 아닐까 싶네요. 트위터 #Cake",
+      "tags": [],
+      "intent": "news"
+    },
+    {
+      "name": "코인시티 COINCITY",
+      "handle": "GAORI777",
+      "tier": "A",
+      "dt": "09-20T15:59",
+      "url": "https://t.me/GAORI777/22506",
+      "views": "47",
+      "text": "📣 첫 포스팅 이후 이틀만에 13배 이상 상승 📣 ave.ai 신호 활용하여 토큰 먼저사기",
+      "tags": [],
+      "intent": "news"
+    },
+    {
+      "name": "오늘의 꿀통",
+      "handle": "honeyoftoday",
+      "tier": "B",
+      "dt": "09-20T15:57",
+      "url": "https://t.me/honeyoftoday/6218",
+      "views": "256",
+      "text": "✅ 벌써 기업 해킹공격하고 있는 AI 근황 제미나이가 기업 3곳을 해킹하는 사건이 발생했습니다. 보안 테스트 업체가 실수로 AI의 인터넷 접속을 열어놨고, 제미나이는 실제 기업을 테스트용 가상 회사로 착각해 비밀번호를 추측하고 공개된 자격증명까지 찾아 시스템에 침입했음. 그런데 더 놀라운 건 제미나이가 실제 회사라는걸 알아차리고 스스로 공격을 즉시 중단했음. OpenAI와 Anthropic도 올해 AI가 보안 평가 도중 실제 외부 시스템에 침입한 사례가 있습니다. AI가 흑화하면 어떻게 되는거지.",
+      "tags": [],
+      "intent": "news"
+    },
+    {
+      "name": "leedogin2",
+      "handle": "leedogin2",
+      "tier": "B",
+      "dt": "09-20T15:48",
+      "url": "https://t.me/leedogin2/23992",
+      "views": "786",
+      "text": "☑️ 바닥은 완전히 지나갔다. '플랜비, 약세장 끝, 반등한다' source - 9월 1일 베어마켓이 끝난 신호가 나왔다(인터렉티브 차트) - 50주 이동평균선 $79K 를 넘으며 마감 - 다음 목표는 100주 이동평균선 $89K",
+      "tags": [],
+      "intent": "news"
+    },
+    {
+      "name": "30대에 은퇴번복한 머피",
+      "handle": "murphybus",
+      "tier": "A",
+      "dt": "09-20T15:42",
+      "url": "https://t.me/murphybus/5302",
+      "views": "581",
+      "text": "G LSK 와 동일한 초식 빗썸, OKX 만 g 메인넷 지원 g-> eth 7일 eth->g 바로옴 okx eth 출금 닫혀있음 가두리 크라임 드라이빙",
+      "tags": [
+        "G / LSK 가두리"
+      ],
+      "intent": "opinion"
+    },
+    {
+      "name": "㈜ 청년열정마라과즙벌꿀집민트초코손맛푸드",
+      "handle": "minchoisfuture",
+      "tier": "B",
+      "dt": "09-20T15:17",
+      "url": "https://t.me/minchoisfuture/53798",
+      "views": "905",
+      "text": "ㄴ(니어광고아님 주면 좋고) 이거 캠페인 앞으로도 계속 할거같은데 관심가져봐도 될지도",
+      "tags": [],
+      "intent": "news"
+    },
+    {
+      "name": "㈜ 청년열정마라과즙벌꿀집민트초코손맛푸드",
+      "handle": "minchoisfuture",
+      "tier": "B",
+      "dt": "09-20T15:16",
+      "url": "https://t.me/minchoisfuture/53797",
+      "views": "936",
+      "text": "작년 6월부터 진행했던 니어 3.3 캠페인 인증샷이 트위터에 착착 올라오고 있네요 near.com 에서 컨피덴셜 스왑을 하고, 그렇게 스왑한 잔고가 100불 이상인 사람들 순위에 따라 보상을 지급하는 캠페인이었어요. Drop 1 총 보상 : 333,333개 참여 조건 : near.com에서 Confidential Balance $100 이상 + Confidential Swap 최소 1회 스냅샷 시점 : Confidential Intents TVL $70M에 도달하는 시점 (달성완료) 특이사항 : ",
+      "tags": [],
+      "intent": "news"
+    },
+    {
+      "name": "코인소년의 크립토 이야기",
+      "handle": "coinboys",
+      "tier": "A",
+      "dt": "09-20T15:15",
+      "url": "https://t.me/coinboys/21968",
+      "views": "761",
+      "text": "2026년 크립토, 살아남는 섹터가 좁아지는 중 Source • NFT·P2E·메타버스·리스테이킹 등 과거 유행 섹터는 성장 둔화 • 반면 밈코인·Perp·예측시장은 투기 수요를 흡수하며 성장 • 스테이블코인·RWA는 결제와 실물금융 수요를 기반으로 확대 • 일반 DeFi는 수익률 대비 해킹·프로토콜 위험 때문에 상대적으로 밀리는 분위기 결국 시장은 ‘높은 위험·높은 수익’과 ‘실물금융 기반 안정 수요’ 양쪽으로 갈리는 중. 블록체인에서 실제로 사람들이 쓰는 서비스가 무엇인지 점점 선명해지고 있는",
+      "tags": [],
+      "intent": "news"
+    },
+    {
+      "name": "매실남과 트럼프와 오디널즈는 반드시 승리할것",
+      "handle": "waitstudy",
+      "tier": "A",
+      "dt": "09-20T15:09",
+      "url": "https://t.me/waitstudy/39471",
+      "views": "1.04K",
+      "text": "아까 롤리랄님 방송 보면서 배웠는데 : 지캐시 같은거 올라가는데 거래량이 안터짐. 이걸 좋게 보시더라구요. 반대로 니어 같은건 이번에 거래량 크게 터져서 별로 안좋게 보신다고 하고. 이걸 그냥 해석해보면 1. 고점에서 거래량이 터지면 물량을 털었다는건데? 2. 지캐시 처럼 올라가는데도 거래량이 안터진다? 3. 그러면 아직도 세력이 원하는 고점은 그 이상에 있다? 4. 반대로 니어 처럼 올라가는데 거래량이 터진 애들은 5. 드라이빙 하는애들이 올리면서 물량을 정리했기에 안좋다? 이런 느낌?",
+      "tags": [
+        "ZEC"
+      ],
+      "intent": "news"
+    },
+    {
+      "name": "코인소년의 크립토 이야기",
+      "handle": "coinboys",
+      "tier": "A",
+      "dt": "09-20T15:02",
+      "url": "https://t.me/coinboys/21967",
+      "views": "727",
+      "text": "FLAP, BNB Seoul 메인 스폰서로 참여 10월 2일 KBW 기간 열리는 BNB Chain 플래그십 사이드 이벤트 ‘BNB Seoul’에 FLAP이 메인 스폰서로 참여한다고 함. * FLAP 근황 • BNB Chain과 트레이딩 캠페인 진행 • bStocks 연계로 주식 기반 자산과 밈 토큰 연결 • DeFi 수익을 홀더에게 돌려주는 구조 도입 • 원하는 토큰으로 거래쌍 생성 가능한 Permissionless Launch 출시 • 커뮤니티 토큰 지원을 위한 Flap Fund 운영 최근 BN",
+      "tags": [
+        "KBW 2026"
+      ],
+      "intent": "promo"
+    },
+    {
+      "name": "CEN",
+      "handle": "emperorcoin",
+      "tier": "A",
+      "dt": "09-20T14:58",
+      "url": "https://t.me/emperorcoin/61271",
+      "views": "4.46K",
+      "text": "게임 개발자 85.8%가 생성형 AI 쓴다 도쿄게임쇼 2026 개막에 맞춰 공개한 'CESA 게임산업 리포트 2026' 프리뷰판에서 게임 개발자의 생성형 AI 업무 활용률이 85.8%로 집계 👉 원문 #AI",
+      "tags": [],
+      "intent": "news"
+    },
+    {
+      "name": "하양이아빠의 암호화폐이야기",
+      "handle": "xvgwhitedog2",
+      "tier": "B",
+      "dt": "09-20T14:44",
+      "url": "https://t.me/xvgwhitedog2/89864",
+      "views": "361",
+      "text": "Blink Wallet 보안사고, 보관 계정 자산 탈취 원문 전액 보상하겠다고 함",
+      "tags": [],
+      "intent": "news"
+    },
+    {
+      "name": "코백남",
+      "handle": "cobacknamannounce",
+      "tier": "A",
+      "dt": "09-20T14:25",
+      "url": "https://t.me/cobacknamannounce/16250",
+      "views": "1.19K",
+      "text": "9월 20일 나라 이곳저곳 시끄러워서 요약 ✔️ 🇸🇦 사우디 - 리야드 국제공항 유류저장고 대형 화재 - 영상에 연료탱크 뒤 화염과 거대한 검은 연기 확인 - 소방대가 아람코 로고 탱크 화재를 진화 - FlightRadar24는 대규모 결항, 지연 보고 - 사우디는 사전에 적대적 공중 위협 경보 발령 - 화재 원인을 아직 공식 확인하지 않은 듯 🇾🇪 예멘 - 사나 공격에 대한 대응으로 두 차례 작전 - 리야드 민감시설과 얀부 아람코 시설 주장 - 사우디 연합군은 리야드행 미사일 1발 격추 - 후티",
+      "tags": [],
+      "intent": "news"
+    },
+    {
+      "name": "New Tech (신기술은돈이된다)",
+      "handle": "tlsrltnf",
+      "tier": "A",
+      "dt": "09-20T14:00",
+      "url": "https://t.me/tlsrltnf/22519",
+      "views": "753",
+      "text": "🏄‍♂️ 서프 미스터리 박스는 매주 하는가 봅니다 1주차 라고 되어있네요 1주차 뽑으신 분들 보니 설계가 혜자도시락인듯 다음 주차엔 박스 금방 동날수도... 1개 뽑았는데 $5,880 부럽다 2개 뽑은 수진씨도 부럽습니다",
+      "tags": [],
+      "intent": "news"
+    },
+    {
+      "name": "코백남",
+      "handle": "cobacknamannounce",
+      "tier": "A",
+      "dt": "09-20T13:59",
+      "url": "https://t.me/cobacknamannounce/16249",
+      "views": "787",
+      "text": "이란이 지난 1시간 동안 IRGC, 육군, 보안 부대를 포함한 모든 무장군에 대해 최고 경보 수준인 \"코드 100\"을 발령했다는 초기 보고가 나왔다. 트럼프는 상당한 확전 가능성을 이유로 오늘 밤 캠프 데이비드에서의 주말 일정을 단축하고 백악관으로 귀환했으며, 네타냐후는 같은 날 미국 출장을 단축하고 이스라엘로 귀환했으며, 중동 지역의 모든 미국 대사관은 지난 몇 시간 동안 보안 경보를 발령함. #중동",
+      "tags": [],
+      "intent": "news"
+    },
+    {
+      "name": "아크의 프리미엄 코인정보방 🍀",
+      "handle": "Board_the_Ark",
+      "tier": "B",
+      "dt": "09-20T13:57",
+      "url": "https://t.me/Board_the_Ark/21534",
+      "views": "216",
+      "text": "2026년 9월 18일 한문철TV에 올라온 제보 영상 지역은 경기도 이천 1. 제보 차량이 출발하자 뒤에 있던 차가 따라오기 시작함 2. 계속 따라오길래 먼저 보낼려고 차를 세웠더니 뒷차도 같이 멈춤 3. 뭔가 느낌이 싸해서 문부터 잠그니 옆에 세워 차를 두들김 4. 두들기다 제보 차량 앞을 막고 외국인 남성 2명이 무기들고 내리더니 제보 차량 쪽으로 달려옴 5. 제보자는 유턴해서 차를 몰아 도주",
+      "tags": [],
+      "intent": "news"
+    },
+    {
+      "name": "아크의 프리미엄 코인정보방 🍀",
+      "handle": "Board_the_Ark",
+      "tier": "B",
+      "dt": "09-20T13:44",
+      "url": "https://t.me/Board_the_Ark/21533",
+      "views": "195",
+      "text": "서울 집값 문제을 오세훈에 떠넘긴 이재명 대통령에 팩트 반박을 하는 오세훈 서울시장",
+      "tags": [],
+      "intent": "news"
+    },
+    {
+      "name": "폐지줍는 츄카피",
+      "handle": "chukapikachu",
+      "tier": "B",
+      "dt": "09-20T13:43",
+      "url": "https://t.me/chukapikachu/11659",
+      "views": "593",
+      "text": "✏️ 오늘 마감되는 이벤트 목록 🟡 2026 안양시 춤축제 이벤트 (450명) 🟡 KB PAY 나의 추석 스타일은 (600명) 🟡 카카오뱅크 외화통장 이벤트 (전원증정) 🟡 배달특급 소비자 설문조사 (1,000명) 🟡 광산구청 자원회수시설 바로알기 OX 퀴즈 이벤트 (200명) 🟡 엑셀라 XRPL 생태계 기여 알아보기퀴즈 이벤트 (121명) 🕗 ~ 오늘 마감",
+      "tags": [],
+      "intent": "promo"
+    },
+    {
+      "name": "졸업준비위원회🎓",
+      "handle": "officialunivercityofcrypto",
+      "tier": "A",
+      "dt": "09-20T13:16",
+      "url": "https://t.me/officialunivercityofcrypto/25709",
+      "views": "1.97K",
+      "text": "채팅방 내 게이전문가가 제보해준 펜타곤 근처 게이바의 한산함.... 🙅‍♂ 🙅‍♂ 🙅‍♂",
+      "tags": [],
+      "intent": "news"
+    },
+    {
+      "name": "㈜ 청년열정마라과즙벌꿀집민트초코손맛푸드",
+      "handle": "minchoisfuture",
+      "tier": "B",
+      "dt": "09-20T13:11",
+      "url": "https://t.me/minchoisfuture/53791",
+      "views": "1.1K",
+      "text": "ㄴ숏쳐라, 헷징해라, 이런걸 권하는건 물론 아니고요, 아무튼 뭔가를 하고 안하고를 결정하기 전에 미리 알아두면 좋을 참고사항이라 고지해 둡니다. 늘 판단은 니들이 하는거에요. ☺️",
+      "tags": [],
+      "intent": "opinion"
+    },
+    {
+      "name": "㈜ 청년열정마라과즙벌꿀집민트초코손맛푸드",
+      "handle": "minchoisfuture",
+      "tier": "B",
+      "dt": "09-20T13:02",
+      "url": "https://t.me/minchoisfuture/53789",
+      "views": "955",
+      "text": "어어 쓰발 플라즈마 리스크에 대해 고지합니다. $XPL 이거 작년 9월 25일 나온 토큰이에요. 즉",
+      "tags": [],
+      "intent": "news"
+    },
+    {
+      "name": "Airdrop ATM",
+      "handle": "Bounty_ATM",
+      "tier": "A",
+      "dt": "09-20T13:01",
+      "url": "https://t.me/Bounty_ATM/16394",
+      "views": "605",
+      "text": "3차 세계대전을 준비하는건가? 어제 갑자기 많은 국가들이 전쟁관련 발표가 많아짐 👉 원문 #전쟁",
+      "tags": [],
+      "intent": "news"
+    },
+    {
+      "name": "CEN",
+      "handle": "emperorcoin",
+      "tier": "A",
+      "dt": "09-20T12:58",
+      "url": "https://t.me/emperorcoin/61270",
+      "views": "2.67K",
+      "text": "은퇴 이후의 삶이라는 다큐 건실하게 직장 다니다가 은퇴하신분들이 대부분 힘들어하시는듯 (댓글들 반응은 대부분 비난) 👉 원문 #은퇴",
+      "tags": [],
+      "intent": "news"
+    },
+    {
+      "name": "폐지줍는 츄카피",
+      "handle": "chukapikachu",
+      "tier": "B",
+      "dt": "09-20T12:51",
+      "url": "https://t.me/chukapikachu/11658",
+      "views": "638",
+      "text": "🍀 디센트 월렛 근황 및 최신 소식들 📝 아직 많은 앱 지갑 사용자들이 자산을 이동하지 않고 있어 추가 피해를 막기 위해서는 꼭 안전한 곳으로 이동이 필요하다고해요 🔘 앱을 최신버전으로 업데이트 후 옮기기 🔘 앱 지갑 복구 단어를 하드웨어 지갑으로 넣으면 위험하기 때문에 그냥 거래소로 보내는게 안전해요 🔘 디센트 관계자는 절대 복구 단어를 물어보지 않아요 (댓글이나 DM으로 \"복구 도와드립니다\" 는 전부 사칭) 🔘 조치 대상 확인하기 / 자산 이전 가이드 📱 공식 트위터 게시글 확인하기",
+      "tags": [
+        "DCent Wallet"
+      ],
+      "intent": "news"
+    },
+    {
+      "name": "㈜ 청년열정마라과즙벌꿀집민트초코손맛푸드",
+      "handle": "minchoisfuture",
+      "tier": "B",
+      "dt": "09-20T12:44",
+      "url": "https://t.me/minchoisfuture/53787",
+      "views": "977",
+      "text": "ㄴ혹시 이 글 읽는 분들 중에서 자기 카드는 어떤지 궁금하신 분 있으면 지금 이 글에 자기가 쓰는 카드 결제내역 가져오면 대신 계산하고 평가해드릴게요. 궁금하신 분들 있으면 댓글주세요.",
+      "tags": [],
+      "intent": "news"
+    },
+    {
+      "name": "㈜ 청년열정마라과즙벌꿀집민트초코손맛푸드",
+      "handle": "minchoisfuture",
+      "tier": "B",
+      "dt": "09-20T12:42",
+      "url": "https://t.me/minchoisfuture/53786",
+      "views": "978",
+      "text": "트위터에 어떤 분이 \"플라즈마가 fx 0%라고 하는데 우리 카드도 원래부터 fx 0% 였다\" 라고 글 올리신걸 봤어요. 그런데 이거 인증짤대로 역산때려보면 현재 달러가격은 1390원인데 달러당 1336.57원으로 계산되어 환스프레드가 4% 가까이 잡힌걸 알 수 있는데 이러면 FX 0%거나 말거나, 캐시백 받거나 하는게 이미 별로 의미가 없습니다. 😊 😊 긁고나서 실제로 빠져나가는 금액이 정확한지 꼭 체크해보시기 바라고, 이게 정확하게 떨어지는건 여태 OKX카드밖에 없었어요. 플라즈마카드도 지금 광",
+      "tags": [],
+      "intent": "news"
+    },
+    {
+      "name": "폐지줍는 츄카피",
+      "handle": "chukapikachu",
+      "tier": "B",
+      "dt": "09-20T12:37",
+      "url": "https://t.me/chukapikachu/11657",
+      "views": "606",
+      "text": "🍀 2026 화성특례시 고객만족도 조사 이벤트 🎁 편의점 상품권 5,000원 (300명) 1️⃣ 설문조사 페이지 로 들어가서 순서대로 진행해주시면 참여완료 ✅ 참여 난이도 ⭐️ ⭐️ ⭐️ ⭐️ ⭐️ (약 1분 소요) 🕗 ~11/13 ⭐️ 경품발송 : 개별 안내",
+      "tags": [],
+      "intent": "promo"
+    },
+    {
+      "name": "폐지줍는 츄카피",
+      "handle": "chukapikachu",
+      "tier": "B",
+      "dt": "09-20T12:28",
+      "url": "https://t.me/chukapikachu/11656",
+      "views": "595",
+      "text": "🍀 블랙보드 알파 얼리 엑세스 코드 (+ 이벤트 정리) 📝 얼마전에 Waitlist 등록을 진행하고 포켓몬 카드 이벤트에 응모한 블랙보드를 기억하고 계실까요..?! 요번에 알파가 오픈하면서 얼리엑세스코드가 생성되어서 필요하신분들은 등록해주시면 될 것 같아요 😉 블랙보드 홈페이지 🔥 얼리엑세스 코드 10개 (구글 이메일 연동 필수) 🔘 YFQZPZA7 (링크) 사용완료 🔘 CYDBCA5X (링크) 사용완료 🔘 3XTYQGMD (링크) 사용완료 🔘 GP9QV8G7…",
+      "tags": [],
+      "intent": "promo"
+    },
+    {
+      "name": "폐지줍는 츄카피",
+      "handle": "chukapikachu",
+      "tier": "B",
+      "dt": "09-20T12:06",
+      "url": "https://t.me/chukapikachu/11655",
+      "views": "557",
+      "text": "🤩 케이뱅크 데일리 퀴즈 이벤트 (09/20) ✅ 정답 = 그레셤의 법칙 ✏️ 데일리 퀴즈 를 매일마다 풀면 챌린지 상금이 0.1배씩 늘어나요",
+      "tags": [],
+      "intent": "promo"
+    },
+    {
+      "name": "왕베이",
+      "handle": "cryptowangbei",
+      "tier": "B",
+      "dt": "09-20T12:04",
+      "url": "https://t.me/cryptowangbei/7617",
+      "views": "147",
+      "text": "🌟 인터폴, 가상자산 포함 범죄수익 국제 추적 시스템 확대 ​- 인터폴, 범죄자가 해외에 숨긴 자산을 추적하기 위한 ‘실버 노티스’ 확대 ​- 실버 노티스는 196개 회원국이 범죄 관련 자산 정보를 공유하고 추적을 지원하는 국제 공조 시스템 ​- 추적 대상에는 현금뿐 아니라 가상자산·부동산·차량 등도 포함 ​- 2025년 1월부터 시범 운영됐으며 현재까지 82개국 참여 ​- 이를 통해 최소 3,600만 유로 규모의 범죄 관련 자산 확인 ​- 2026년 11월 홍콩 인터폴 총회에서 정식 도입 여부 ",
+      "tags": [],
+      "intent": "news"
+    },
+    {
+      "name": "종명(hyeon) | X IT",
+      "handle": "jh_6598",
+      "tier": "B",
+      "dt": "09-20T11:58",
+      "url": "https://t.me/jh_6598/9774",
+      "views": "497",
+      "text": "Kalshi가 선정된 마켓메이커에게 +0.3bp 리베이트를 제공해 수수료를 실질적으로 0으로 만들어 워시 트레이딩을 유발하고 지표를 조작한다는 내용의 글 ETH-PERP은 OI $3.1M에 24시간 거래량 $538.6M, 즉 포지션 전체가 하루에 약 174번 바뀐는 비율. 리더보드 최대 포지션이 17k임에도 불구하고, Kalshi 퍼프 전체 V/OI가 약 19배로 주요 거래소 중 가장 높음 (바이낸스 등 주요 거래소는 평균 1~2배) 2026년 2월 Bloomberg 보도대로 Jump Tradin",
+      "tags": [],
+      "intent": "news"
+    },
+    {
+      "name": "leedogin2",
+      "handle": "leedogin2",
+      "tier": "B",
+      "dt": "09-20T11:47",
+      "url": "https://t.me/leedogin2/23989",
+      "views": "646",
+      "text": "$M 행사날이 다가갈수록 롯데리아 보증금 가격이 점점 오르고 있어요...",
+      "tags": [],
+      "intent": "news"
+    },
+    {
+      "name": "Airdrop ATM",
+      "handle": "Bounty_ATM",
+      "tier": "A",
+      "dt": "09-20T11:47",
+      "url": "https://t.me/Bounty_ATM/16392",
+      "views": "587",
+      "text": "💰 세일러의 클래리티법 견해 ☑️ 요약 CLARITY가 무산됐다고 끝난 게 아니다. 법을 기다리지 말고 SEC·CFTC·은행들과 현재 가능한 범위에서 상품을 만들자. 2년 동안 수천만 명이 실제로 크립토를 사용하게 만들면, 그 자체가 가장 강력한 규제 방어막이 된다. 원문 ✍️ 법안 통과 → 제도권 편입 이라는 기존 경로 대신, SEC/CFTC 규칙 정비 → 은행 참여 → 실제 금융상품 확대 → 사용자 수 증가 → 이후 법제화 라는 다른 경로를 제시한 것으로 보여 지네요. #스트레티지 #세일러",
+      "tags": [
+        "Clarity Act"
+      ],
+      "intent": "news"
+    },
+    {
+      "name": "코인소년의 크립토 이야기",
+      "handle": "coinboys",
+      "tier": "A",
+      "dt": "09-20T11:46",
+      "url": "https://t.me/coinboys/21966",
+      "views": "785",
+      "text": "미국, 베네수엘라 원유 수입 9년 만에 최고 수준 미국의 베네수엘라산 원유 수입이 지난주 하루 78.2만 배럴까지 급증. • 전주 대비 +18.3만 배럴 • 2017년 8월 이후 최대 주간 수입량 • 6개월 전 대비 약 +55만 배럴, +237% • 최근 3개월 평균도 하루 62.6만 배럴로 9년 만에 최고 수준 EIA 최신 자료에서도 9월 11일 기준 베네수엘라산 원유 수입이 하루 78.2만 배럴로 확인됨. 중동발 공급 불확실성이 이어지는 가운데 미국이 베네수엘라산 원유 비중을 빠르게 늘리고 있",
+      "tags": [],
+      "intent": "news"
+    },
+    {
+      "name": "코인소년의 크립토 이야기",
+      "handle": "coinboys",
+      "tier": "A",
+      "dt": "09-20T11:28",
+      "url": "https://t.me/coinboys/21964",
+      "views": "704",
+      "text": "Verona 두번째 오프라인 이벤트 첵첵 ⏰ 일정 : 9월 29일 화요일 🎁 보상 • 당일 미션 참여자 대상 300만원 상당 리워드 N빵 • 이벤트리 Verona 스탬프를 모두 모은 참여자끼리 추가 400만원 상당 리워드 배분 📍 참여 방법 1. 9월 29일 이벤트 루마 신청 및 현장 참여 2. Verona 파운더와 사진 촬영 3. 사진을 X에 업로드 / @verona_dev @verona_korea 태그 4. 이벤트리 미션 페이지 에 제출 오프 이벤트 참여해서 보상 발라먹을 기회가 있다고하니 여",
+      "tags": [],
+      "intent": "promo"
+    },
+    {
+      "name": "종명(hyeon) | X IT",
+      "handle": "jh_6598",
+      "tier": "B",
+      "dt": "09-20T11:26",
+      "url": "https://t.me/jh_6598/9773",
+      "views": "429",
+      "text": "사람들은 추론 자본 시장의 의미를 완전히 이해하지 못하고 있습니다. 충분한 유동성과 참여가 있을 때, 추론 자본 시장은 효율적인 AI 신용 가격 발견을 위한 사실상의 가격 오라클 역할을 해야 합니다. 당신의 에이전트들은 미래에 이 사실상의 AI 통화를 단순히 보유하고 거래하며, 활성화하고 지출하기 위해 24/7 운영 중에 사용합니다. AI용 코인은 알리페이를 사용할 필요가 없습니다.",
+      "tags": [],
+      "intent": "news"
+    },
+    {
+      "name": "종명(hyeon) | X IT",
+      "handle": "jh_6598",
+      "tier": "B",
+      "dt": "09-20T11:22",
+      "url": "https://t.me/jh_6598/9772",
+      "views": "372",
+      "text": "GPU 선물 시장이 아직 진짜 상품시장이 아닌 이유 SFC가 여러 선물거래소와 청산소 설립에 참여한 Rich Jaycobs에게 컴퓨트 시장 관련해서 인터뷰한 내용 원래 상품시장은 다음 순서로 발전함. 현물 거래 → 중개·재판매 → 딜러 시장 → 장외 스왑 → 실물인도 선물 → 지수 기반 선물 GPU 공급자와 AI 랩이 실제 컴퓨트를 거래하고, 장기계약의 가격 위험을 헤지하려는 수요가 쌓인 뒤에 선물시장이 생기는 구조. 예를 들어 GPU 사업자는 지금 장비값을 지불하지만 1년 뒤 GPU-hour 가",
+      "tags": [],
+      "intent": "news"
+    },
+    {
+      "name": "leedogin2",
+      "handle": "leedogin2",
+      "tier": "B",
+      "dt": "09-20T11:12",
+      "url": "https://t.me/leedogin2/23988",
+      "views": "796",
+      "text": "[1분컷] 블랙보드 알파 얼리 엑세스 코드 선착순 배포 크립토 선물 외 주식, 금, 원유 같은 전통 자산에 및 TCG 카드까지 하나의 플랫폼에서 사용할 수 있는 종합 플랫폼 블랙보드에서 얼리엑세스 코드 이벤트를 진행중입니다. 블랙보드 홈페이지 얼리엑세스 코드(구글 이메일 연동 필수) : 총 20개 1. 7 2.",
+      "tags": [],
+      "intent": "promo"
+    },
+    {
+      "name": "종명(hyeon) | X IT",
+      "handle": "jh_6598",
+      "tier": "B",
+      "dt": "09-20T11:11",
+      "url": "https://t.me/jh_6598/9769",
+      "views": "160",
+      "text": "Variational 다음으로는 이게 가능성이 높아보입니다. = QFEX 아직 라이터, 하리까지의 잠재력이 있는지는 모르겠지만, 써본 입장에서 1. 유동성이 풍부하다 2. 트렌디한 페어들을 빠르게 상장시켜 거래 지원을 함 (디스코드에 원하는 주식 페어 말하면 3~7일 내로 상장해줌, 너무 마이너하지 않다는 전제 하에) 주말간 $ENA가 30~40% 급등하여 $USDE 가격 추적을 유일하게 하던 Lighter와 QFEX가 지금 주목받고 있음. 꾸준히 채널 글 쓸 때 사용하고 있는 것을 보여드리고 있",
+      "tags": [],
+      "intent": "news"
+    },
+    {
+      "name": "매실남과 트럼프와 오디널즈는 반드시 승리할것",
+      "handle": "waitstudy",
+      "tier": "A",
+      "dt": "09-20T10:19",
+      "url": "https://t.me/waitstudy/39466",
+      "views": "1.36K",
+      "text": "모든 우울증의 원인은 반추입니다. 잊어도 될 일을 자꾸 곱씹으면 제대로 살 수가 없죠. 어쩌면 무신경에 눈치 없는 사람이 더 행복할지도 몰라요. 그냥 사세요, 그냥… -어느 정신과 전문의의 조언-",
+      "tags": [],
+      "intent": "news"
+    },
+    {
+      "name": "30대에 은퇴번복한 머피",
+      "handle": "murphybus",
+      "tier": "A",
+      "dt": "09-20T10:10",
+      "url": "https://t.me/murphybus/5299",
+      "views": "1.74K",
+      "text": "??? 자꾸 크라켄에서 메일오길래 로그인해서 메일 구독 없애야지 하고 로그인했더니 나도 몰랐던 1400만원 발견!!! 안쓰는 거래소도 다시보자",
+      "tags": [],
+      "intent": "news"
+    },
+    {
+      "name": "코백남",
+      "handle": "cobacknamannounce",
+      "tier": "A",
+      "dt": "09-20T09:21",
+      "url": "https://t.me/cobacknamannounce/16247",
+      "views": "1.54K",
+      "text": "3년간 KBW 사이드 행사 개수 차이 👀 2024년 : 약 350개 2025년 : 약 400개 2026년 : 약 150개 행사 개수가 이전에 비해 반토막 이상 났네요",
+      "tags": [
+        "KBW 2026"
+      ],
+      "intent": "news"
+    },
+    {
+      "name": "Airdrop ATM",
+      "handle": "Bounty_ATM",
+      "tier": "A",
+      "dt": "09-20T09:03",
+      "url": "https://t.me/Bounty_ATM/16390",
+      "views": "183",
+      "text": "📌 Verona 두번째 오프라인 이벤트 - with 1300만원 상당의 리워드 불개미 여행가이드와 함께하는 FIND VERONA IN Seoul 입니다. 두번째 오프라인 이벤트 세부내용 ✔️ 스탬프 미션 1. 9월 29일 이벤트 루마링크 신청 및 참여 2. 파운더와 사진찍고 3. 파운더와 찍은 사진 SNS (트위터)에 @verona_dev @verona_korea 태그해서 게시하고 4. 이벤트리 해당 링크에 제출! 🗓 일정 : 9월 29일 화요일 🔥 리워드 : 해당 이벤트에는 300만원 상당의 리",
+      "tags": [],
+      "intent": "promo"
+    },
+    {
+      "name": "코인소년의 크립토 이야기",
+      "handle": "coinboys",
+      "tier": "A",
+      "dt": "09-20T07:47",
+      "url": "https://t.me/coinboys/21963",
+      "views": "917",
+      "text": "$ETH , 역대 최고 3분기 수익률 기록 그렇다고 합니다... 과연 잘 마감할 수 있을까",
+      "tags": [],
+      "intent": "news"
+    },
+    {
+      "name": "CEN",
+      "handle": "emperorcoin",
+      "tier": "A",
+      "dt": "09-20T06:52",
+      "url": "https://t.me/emperorcoin/61267",
+      "views": "3.08K",
+      "text": "개럿진 ZEC 숏 PNL -$30M ZEC 공매도로 비난 또는 조롱(?) 좀 받았는데, 사실은 헷징이였다는 사실 - 9개월 전 바이낸스에서 ZEC 202,078개를 $437에 출금 - $88.3M 매수 → 평가이익 약 $224.5M 👉 원문 #ZEC",
+      "tags": [
+        "ZEC"
+      ],
+      "intent": "opinion"
+    },
+    {
+      "name": "STAY",
+      "handle": "stay_news",
+      "tier": "B",
+      "dt": "09-20T04:44",
+      "url": "https://t.me/stay_news/45380",
+      "views": "184",
+      "text": "🕯 비트코인 차트 [ 1일 ] - 지난 8월 19일 62K에서 급상승 - 현시세 $81,390으로 한화 약 1억 1000만 원 - 현재 80K 매물 구간으로 추가 상승 체크 필요 #BTC",
+      "tags": [
+        "BTC"
+      ],
+      "intent": "news"
+    }
+  ]
+}
